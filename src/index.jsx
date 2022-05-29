@@ -4,7 +4,7 @@ import Comment from "./Comment";
 import "./styles.scss";
 
 const userInfo = {
-  author: "Michael",
+  name: "Michael",
   avatarUrl: "https://avatars1.githubusercontent.com",
 }
 
