@@ -12,7 +12,7 @@ const rootElem = document.querySelector("#root");
 
 ReactDOM(
   <Comment 
-    user={userInfo}
+    author={userInfo}
     text="Good job!"
     data={new Date()} 
   />, 
