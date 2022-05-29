@@ -1,5 +1,5 @@
 import React from "react";
-import UserInfo from "./UserInfo";
+import UserInfo from "./UserInfo.jsx";
 import "./comment.scss";
 import moment from "moment";
 
@@ -14,7 +14,5 @@ function Comment(props) {
     </div>
   );
 };
-
-console.log(Comment);
 
 export default Comment;
